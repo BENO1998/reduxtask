@@ -1,0 +1,36 @@
+.Home{
+  text-align: center;
+}
+.register{
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  padding-bottom: 50px;
+  padding-top: 10px;
+}
+.login{
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.users{
+  font-size: larger;
+ font-weight: bolder;
+}
+body{
+  background-color: rgb(181, 214, 214);
+}
+.login-form{
+  background-color: rgb(242, 242, 247);
+  align-items: center;
+  justify-content: center;
+  width: 250px;
+  border-radius: 10px;
+  border: 3px double black;
+}
+.register-form{
+  background-color: azure;
+  width: 250px;
+  border: 3px double black;
+  border-radius: 10px;
+}
